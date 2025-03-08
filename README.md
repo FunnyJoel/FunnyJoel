@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoeL
-- 👀 I’m interested in photoography
+- 👀 I’m interested in photography and fast cars.
 - 🌱 I’m currently learning how to think like a computer  programmer
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on networking labs
 - 📫 you can reach me on https://www.linkedin.com/in/joelson-dumas-b73533145/
 
 <!---
